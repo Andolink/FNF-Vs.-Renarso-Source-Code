@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boxMain.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beat" x="0" y="0" width="250" height="250"/>
+	<SubTexture name="beat" x="250" y="0" width="250" height="250"/>
+	<SubTexture name="beat" x="500" y="0" width="250" height="250"/>
+	<SubTexture name="beat" x="750" y="0" width="250" height="250"/>
+</TextureAtlas>
